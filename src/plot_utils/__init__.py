@@ -1,0 +1,3 @@
+from .plot_directorates import plot_directorates_yearly_score
+from .plot_how_often import plot_frequency
+from .plot_results import plot_grouped_results

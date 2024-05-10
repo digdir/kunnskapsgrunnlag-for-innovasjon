@@ -1,0 +1,27 @@
+1.1 Hvor mye omtales innovasjon hos virksomhetene i kildene (årsrapporter/tildelingsbrev) Aggregerte tall på innovasjonsomtale og gjerne utvikling over tid på dette tallet. 
+1.2 Kan vi se en sammenheng mellom virksomhetene, mulig?  
+1.3 Hvilke departementer etterspør innovasjon, mulig? 
+1.4 Kan vi se sammenheng mellom departementene? Er det noen dep. som skiller seg ut? 
+1.5 Hvor mange virksomheter har gjennomført innovasjonsprosjekter? Hvor mange departementer etterspør innovasjon? 
+1.6 Hvor mye omtales produktorientering, produktutvikling og produktorganisering
+
+2.1 Hvor mange virksomheter har fått oppdrag på innovasjon (se referansetekst case-eksempel)? 
+2.2 Hvor mange virksomheter har fått egne innovasjonsmidler? 
+2.3 Arbeider virksomhetene strategisk med innovasjon (kan språkmodell fange det opp?)  
+2.4 Er kultur for innovasjon noe som virksomhetene (ledere som legger til rette) jobber aktiv med, som blant annet: 
+
+3.1 Er det en sammenheng mellom virksomhetene som omtaler digitalisering og digital transformasjon nivået på innovasjonsaktivitet? (Er det en korrelasjon mellom virksomheter som er innovative og som er langt fremme med digitalisering?) 
+3.2 Hvilken type omtale er det i rapportene vedr. spesifikke transformativ teknologi valg som skytjenester, sensor teknologi, kunstig intelligens og/eller annen teknologi? 
+3.3 Hvilke virksomheter omtaler mest bruken av ny teknologi (som nevnt over)? 
+3.4 Hvor ofte omtales datadeling, åpne data og lignende i forbindelse med innovasjon? 
+
+4.1 Hvordan jobber virksomhetene med kompetanseutvikling innen digitalisering og nye måter å jobbe på (f.eks. smidig, fremsyn, design, digital)? 
+4.2 Hvor mye omtales smidig organisering og smidige prosjekter? 
+4.3 Omhandles ledelse som en faktor for å legge til rette for innovasjon? 
+4.4 Hva slags type innovasjonsmetoder/caser er mest forekommende? 
+4.5 Involveres brukere / innbyggere i tjenesteutviklingen? 
+
+5.1 Forekomst av innovative anskaffelser nevnes i tildelingsbrev og årsrapporter 
+5.2 Forekomst av de som har innovative anskaffelser i sitt tildelingsbrev og som i årsrapport skriver at de har gjort/gjennomført noe. 
+5.3 Forekomst/i hvilken grad det er offentlig-privat samarbeid som nevnes i tildelingsbrev 
+5.4 Forekomst av/omtale av strategisk bruk av anskaffelser (i tildelingsbrev og årsrapport), kan inkludere:  
