@@ -1534,13 +1534,13 @@ files = [
 
 [[package]]
 name = "openai"
-version = "1.26.0"
+version = "1.30.5"
 description = "The official Python library for the openai API"
 optional = false
 python-versions = ">=3.7.1"
 files = [
-    {file = "openai-1.26.0-py3-none-any.whl", hash = "sha256:884ced523fb0225780f8b0e0ed6f7e014049c32d049a41ad0ac962869f1055d1"},
-    {file = "openai-1.26.0.tar.gz", hash = "sha256:642e857b60855702ee6ff665e8fa80946164f77b92e58fd24e01b545685b8405"},
+    {file = "openai-1.30.5-py3-none-any.whl", hash = "sha256:2ad95e926de0d2e09cde632a9204b0a6dca4a03c2cdcc84329b01f355784355a"},
+    {file = "openai-1.30.5.tar.gz", hash = "sha256:5366562eb2c5917e6116ae0391b7ae6e3acd62b0ae3f565ada32b35d8fcfa106"},
 ]
 
 [package.dependencies]
@@ -3211,4 +3211,4 @@ db = ["mysqlclient", "sqlalchemy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "e08a5d1072a4d390dee5d8cf16c441212e461690805e764aaab871df9f05989c"
+content-hash = "c334e2966f93ea89e2e189a9720ea7059886e718dab7e11ada710b174c4da820"
