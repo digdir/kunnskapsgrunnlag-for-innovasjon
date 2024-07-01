@@ -1517,6 +1517,7 @@ description = "Nvidia JIT LTO Library"
 optional = false
 python-versions = ">=3"
 files = [
+    {file = "nvidia_nvjitlink_cu12-12.4.127-py3-none-manylinux2014_aarch64.whl", hash = "sha256:4abe7fef64914ccfa909bc2ba39739670ecc9e820c83ccc7a6ed414122599b83"},
     {file = "nvidia_nvjitlink_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl", hash = "sha256:06b3b9b25bf3f8af351d664978ca26a16d2c5127dbd53c0497e28d1fb9611d57"},
     {file = "nvidia_nvjitlink_cu12-12.4.127-py3-none-win_amd64.whl", hash = "sha256:fd9020c501d27d135f983c6d3e244b197a7ccad769e34df53a42e276b0e25fa1"},
 ]
@@ -1534,13 +1535,13 @@ files = [
 
 [[package]]
 name = "openai"
-version = "1.26.0"
+version = "1.35.7"
 description = "The official Python library for the openai API"
 optional = false
 python-versions = ">=3.7.1"
 files = [
-    {file = "openai-1.26.0-py3-none-any.whl", hash = "sha256:884ced523fb0225780f8b0e0ed6f7e014049c32d049a41ad0ac962869f1055d1"},
-    {file = "openai-1.26.0.tar.gz", hash = "sha256:642e857b60855702ee6ff665e8fa80946164f77b92e58fd24e01b545685b8405"},
+    {file = "openai-1.35.7-py3-none-any.whl", hash = "sha256:3d1e0b0aac9b0db69a972d36dc7efa7563f8e8d65550b27a48f2a0c2ec207e80"},
+    {file = "openai-1.35.7.tar.gz", hash = "sha256:009bfa1504c9c7ef64d87be55936d142325656bbc6d98c68b669d6472e4beb09"},
 ]
 
 [package.dependencies]
@@ -3211,4 +3212,4 @@ db = ["mysqlclient", "sqlalchemy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "e08a5d1072a4d390dee5d8cf16c441212e461690805e764aaab871df9f05989c"
+content-hash = "de5f937c1e674a06af8368d69388432829679cb68017e11965b04b02f2df61ef"
